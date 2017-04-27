@@ -2,6 +2,7 @@
 
 ## 概要
 SKStoreProductViewController、アプリからAppStoreを表示するときに利用します。
+（シュミレーターでは期待通りに表示できませんでした。）
 
 ## 関連クラス
 UIViewController
