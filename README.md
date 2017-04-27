@@ -16,7 +16,8 @@ UIViewController
 |---|---|---|
 | loadProductWithParameters | AppStore画面を表示する | vc.loadProduct(withParameters: [SKStoreProductParameterITunesItemIdentifier: "App-ID"],completionBlock: { (result, error) in　}) |
 
-##SKStoreProductViewControllerDelegateの実装用
+## SKStoreProductViewControllerDelegate
+
 |メソッド|説明|必須|
 |---|---|---|
 | productViewControllerDidFinish | AppStore画面を閉じたとき | - | 
